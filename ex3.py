@@ -1,3 +1,5 @@
+# Created by Ibrahim Elsakka on 4/7/2017
+
 print "I will now count my chickens:"
 
 print "Hens", 25 + 30 / 6 # 25 + 5 = 5

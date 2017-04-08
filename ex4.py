@@ -1,3 +1,5 @@
+# Created by Ibrahim Elsakka on 4/7/2017
+
 # we have 100 cars
 cars = 100
 #we have 4 spaces per car
